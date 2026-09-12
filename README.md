@@ -1,2 +1,2 @@
-# -omputer-networks
+# Computer-networks
 Компьютерные сети
